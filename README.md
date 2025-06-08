@@ -23,11 +23,6 @@ Sklonuj repozytorium lub pobierz pliki ZIP.
 
 Otwórz plik index.html (jeśli jest interfejs) lub uruchom plik script.js w konsoli przeglądarki.
 
-Testuj funkcje, wywołując je z poziomu konsoli JavaScript, np.:
-
-javascript
-spreadsheetFunctions.sum([1, 2, 3]); // 6
-spreadsheetFunctions.even([1, 2, 3, 4]); // [2, 4]
 Technologie
 JavaScript (ES6+)
 HTML, CSS (opcjonalnie, jeśli dodałeś interfejs)
@@ -45,4 +40,5 @@ Poprawa obsługi błędów i walidacji danych wejściowych
 
 Autor
 https://github.com/michalpietrzak13
+
 Projekt stworzony w ramach nauki na Freecodecamp
